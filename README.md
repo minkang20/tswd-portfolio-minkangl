@@ -11,20 +11,18 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I'm Minkang Li (He/his/him). I'm a second-year PPM stydent and an incoming data Scientist with a knack for dissecting real-world challenges, crafting predictive models, and delivering actionable insights. In my free time, I like hiking, footballing and photography. I'm more than welcomre to make a connection with you. 
+
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I would like learn how to transform data into insightful, engaging stories, making complex information accessible and impactful. As I prepare for a career in data science, I am dedicated to continuously developing my visualization abilities through practical projects and ongoing lectures.
 
-1. List item #1
-2. List item #2
-3. List item #3
+I am currently on an exciting journey towards becoming a data scientist after guraduation. With a foundational understanding of tools like Python and an eagerness to delve into more advanced platforms like Tableau, I am actively enhancing my skills in creating clear and effective visual narratives. 
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+list: 
+1. principles of data visualization
+2. tools such as tableau
+3. real world applications and projects experience
 
 # Portfolio
 
