@@ -13,6 +13,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 # About me
 Hi! I'm Minkang Li (He/his/him). I'm a second-year PPM stydent and an incoming data Scientist with a knack for dissecting real-world challenges, crafting predictive models, and delivering actionable insights. In my free time, I like hiking, footballing and photography. I'm more than welcomre to make a connection with you. 
 
+<img src="me.jpg" width="200"/>
 
 # What I hope to learn
 I would like learn how to transform data into insightful, engaging stories, making complex information accessible and impactful. As I prepare for a career in data science, I am dedicated to continuously developing my visualization abilities through practical projects and ongoing lectures.
@@ -33,12 +34,17 @@ Content structure
 
 ### Introduction 
 
+The Keynesian economics and the overgrowing government debt
+
 ### Government debt breakdown 
+
+Social welfare, military, etc. 
 
 ### Problems and potention solutions
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+Inflation, etc. 
 
+## Assignment 3&4: [Critique by Design](critique-by-design)
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
@@ -46,45 +52,11 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+## Final proposed solution 
 
-### Changing text
+what we would like to deliver to customers 
 
-You can change text, like this: 
+## Predicted performance 
 
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="me.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
+Plot slots for time series prediction. 
 
