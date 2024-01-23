@@ -1,17 +1,17 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# TSWD-portfolio
+This is Minkang's data visualization portfolio adjusted from TSWD templates. 
 
+You can reference the templace: 
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. I hope you will find something fun here. Enjoy!
 
 # About me
-Hi! I'm Minkang Li (He/his/him). I'm a second-year PPM stydent and an incoming data Scientist with a knack for dissecting real-world challenges, crafting predictive models, and delivering actionable insights. In my free time, I like hiking, footballing and photography. I'm more than welcomre to make a connection with you. 
+Hi! I'm Minkang Li (He/his/him). I'm a second-year PPM stydent and an incoming data Scientist with a knack for dissecting real-world challenges, crafting predictive models, and delivering actionable insights. In my free time, I like hiking, footballing and photography. I'm more than welcomre to make a connection with you! 
 
 <img src="me.jpg" width="200"/>
 
@@ -20,10 +20,11 @@ I would like learn how to transform data into insightful, engaging stories, maki
 
 I am currently on an exciting journey towards becoming a data scientist after guraduation. With a foundational understanding of tools like Python and an eagerness to delve into more advanced platforms like Tableau, I am actively enhancing my skills in creating clear and effective visual narratives. 
 
-list: 
+List: 
 1. principles of data visualization
 2. tools such as tableau
 3. real world applications and projects experience
+4. Anything interesting  
 
 # Portfolio
 
