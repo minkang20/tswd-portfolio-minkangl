@@ -4,7 +4,7 @@
 
 In this project, I make a critical evaluation and iterative redesign of Meat Production in Germany to better communicate the underlying trends and narratives. 
 
-# Step One: Selection of the Data Visualization**
+# Step one: selection of the data visualization
 
 I chose a work from MakeoverMonday, presented by the Federal Statistical Office of Germany, titled [Meat Production in Germany](https://www.destatis.de/EN/Press/2023/02/PE23_051_413.html). At first glance, the graph offers a simplistic and clear visualization of the trends in Germany's meat production changes. The use of colors and lines creates a minimalistic appeal. However, upon closer examination, I noticed some confusion. Although the title indicates a fall in meat production, this isn't immediately apparent from the graph's structural presentation.
 
@@ -28,7 +28,7 @@ I completed a Google Form to analyze the data visualization thoroughly. In essen
 
 In  response, I drafted a solution employing a stacked area graph to more clearly depict the change in total production, aligning with the title and the content of the passage. This alternative visualization aims to make the recent downward trend more discernible to the audience. Additionally, I proposed modifications to the y-axis to minimize confusion, suggesting the year 2000 as the base.
 
-# Step Four: test the solution
+# Step four: test the solution
 
 I sought feedback from two friends—an engineer in their mid-20s and a finance major student in their early 20s—by showing them the work and asking a few targeted questions to see if my draft solution effectively conveyed the intended message. The questions included: "Can you tell me what this is about?" "Is there anything you find surprising or confusing?" and "Would you change anything or do differently?"
 
