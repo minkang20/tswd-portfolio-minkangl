@@ -2,6 +2,7 @@
 
 # Meat Production in Germany 
 
+In this project, I make a critical evaluation and iterative redesign of Meat Production in Germany to better communicate the underlying trends and narratives. 
 
 # Step One: Selection of the Data Visualization**
 
@@ -9,9 +10,9 @@ I chose a work from MakeoverMonday, presented by the Federal Statistical Office 
 
 Data link: [Meat Production in Germany](https://data.world/makeovermonday/2023w10)
 
-# step two: critique the data visualization
+# Step two: critique the data visualization
 
-I completed a Google Form to analyze the data visualization thoroughly.
+I completed a Google Form to analyze the data visualization thoroughly. In essence, the data visualization uses a line plot to display changes in poultry (growth), pork (fluctuation), and beef (decline) production trends since 2000, showing structural shifts in meat production. It faces clarity issues, particularly with the y-axis labels and the overall conveyance of the 8.1% decline in meat production mentioned in the title. The baseline year and numerical data are not adequately explained, which may confuse the primary audience of policymakers and microeconomics enthusiasts. To improve, the visualization should clarify labels and the y-axis, and include numerical data to better communicate specific trends. Despite its aesthetic appeal, the visualization's minimalistic approach and unclear messaging limit its effectiveness, particularly in providing context and a direct representation of the mentioned decrease in meat production. Recommendations include clearer legends, axes, and labels, alongside the integration of actual values to enhance understanding and communication of the data.
 
 # Step three: sketch out a solution
 
