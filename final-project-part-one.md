@@ -34,7 +34,7 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|  Numbeo    |  https://www.numbeo.com/property-investment/rankings.jsp   |             |
 |      |     |             |
 |      |     |             |
 
