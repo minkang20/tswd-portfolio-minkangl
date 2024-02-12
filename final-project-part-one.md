@@ -10,7 +10,15 @@ Text here...
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+This project aims to provide a comprehensive visualization of the housing bubble and its consequential impact on demographic trends. Housing costs, an essential aspect of living, have escalated to levels that appear unsustainable when contrasted with average income levels across numerous markets. This disparity raises concerns about its broader implications on both the economy and society at large.
+
+A key metric in evaluating housing affordability is the housing-to-income ratio, which offers insights into whether housing costs are disproportionately high relative to people's earnings. It is posited that the burden of elevated housing expenses plays a significant role in influencing key life decisions, including family planning and migration patterns. The work of North Douglas supports this assertion, highlighting how the cost of housing is a critical factor driving these personal and demographic shifts.
+
+To address these challenges, this project will delve into the dynamics of the housing market, examining the intricate relationship between housing affordability and its effects on population movements and growth. By leveraging data on the housing-to-income ratio alongside demographic trends, I aim to uncover the nuanced ways in which the housing bubble influences decisions on migration and family expansion.
+
+The analysis will not only shed light on the current state of the housing market but also offer valuable insights for policymakers, urban planners, and individuals alike, seeking to understand and navigate the complexities of housing affordability. Through this exploration, I aspire to contribute to a more informed dialogue on sustainable housing policies and practices that can support balanced economic and social development.
+
+>- story arc
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
