@@ -51,4 +51,10 @@ All descriptions are from Wikipedia.
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+Bar Charts: I will present the countries' ratios of housing costs to income, along with their immigration and fertility rates, in a clear and orderly manner. This approach will highlight the relationship between housing affordability and demographic trends.
+
+Line Plots: By employing two distinct lines—one representing housing costs and the other fertility rates—we offer an intuitive means for the audience to grasp the initial relationship between these variables. This visualization facilitates an easy comparison over time.
+
+Geographical Heat Maps: To illustrate the spatial distribution of housing costs, migration patterns, and fertility rates, I will employ heat maps. These maps will showcase regional variations, enabling a detailed comparative analysis of how different areas are impacted by, or contribute to, these factors. Utilizing country codes will streamline this process, making it straightforward to implement in Tableau or Python.
+
+
