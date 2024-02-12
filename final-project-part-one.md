@@ -20,6 +20,9 @@ The analysis will not only shed light on the current state of the housing market
 
 >- story arc
 
+Embarking on a narrative journey that explores the intricate relationship between housing costs, migration, and fertility rates, I begin with an intriguing statistic or question that piques curiosity, setting the stage for a deeper exploration. Through the lens of compelling personal stories, we build empathy, connecting the audience to the individuals directly impacted by these issues. This emotional groundwork leads to a moment of enlightenment, as we present concise visualizations and analyses that illuminate the complexities at play. Reflecting on the broader implications, we provoke thoughtful concern about the future, guiding the audience towards a resolution that inspires hope. By showcasing actionable solutions and success stories, we aim to motivate positive change, concluding with an optimistic message about the collective power of informed action to address global challenges, weaving a cohesive narrative that engages, educates, and empowers.
+
+
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
