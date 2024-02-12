@@ -34,7 +34,7 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|  Numbeo    |  https://www.numbeo.com/property-investment/rankings.jsp   |             |
+|  Numbeo    |  https://www.numbeo.com/property-investment/rankings.jsp   | Numbeo is a Serbian crowd-sourced online database of perceived consumer prices, real property prices, and quality of life metrics. The website was founded in April 2009 by former Google employee Mladen Adamović, to enable users to share and compare information about the cost of living between countries and cities. Wikipedia            |
 |      |     |             |
 |      |     |             |
 
