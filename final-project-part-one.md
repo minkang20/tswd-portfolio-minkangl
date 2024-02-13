@@ -24,7 +24,11 @@ Embarking on a narrative journey that explores the intricate relationship betwee
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<img src="geo.png" width="200"/>
+
+<img src="line.png" width="200"/>
+
+<img src="bar.jpg" width="200"/>
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
