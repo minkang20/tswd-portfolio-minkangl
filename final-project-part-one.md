@@ -28,7 +28,7 @@ Embarking on a narrative journey that explores the intricate relationship betwee
 
 <img src="line.png" width="200"/>
 
-<img src="bar.jpg" width="200"/>
+<img src="bar.png" width="200"/>
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
