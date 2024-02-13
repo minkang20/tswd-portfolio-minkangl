@@ -11,7 +11,8 @@ To address these challenges, this project will delve into the dynamics of the ho
 
 The analysis will not only shed light on the current state of the housing market but also offer valuable insights for policymakers, urban planners, and individuals alike, seeking to understand and navigate the complexities of housing affordability. Through this exploration, I aspire to contribute to a more informed dialogue on sustainable housing policies and practices that can support balanced economic and social development.
 
-### Story arc
+
+### Structure and story arc
 
 <img src="story-arc.png" width="800"/>
 
@@ -29,6 +30,7 @@ Collectively, these visual elements weave a poignant narrative, aiming to height
 In this part, I present 3 sketches I plan to further implement.  
 
 <img src="bar.png" width="800"/>
+
 (1) A bar chart illustrating the rankings of housing costs and emmigrant numbers for each country, fostering an initial comprehension of how these factors interrelate. This visualization serves as a foundational step towards understanding the broader implications of housing affordability on migration patterns.
 
 <img src="line.png" width="800"/>
