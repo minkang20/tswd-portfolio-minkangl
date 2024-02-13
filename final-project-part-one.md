@@ -5,7 +5,7 @@
 
 This project aims to provide a comprehensive visualization of the housing bubble and its consequential impact on demographic trends. Housing costs, an essential aspect of living, have escalated to levels that appear unsustainable when contrasted with average income levels across numerous markets. This disparity raises concerns about its broader implications on both the economy and society at large.
 
-A key metric in evaluating housing affordability is the housing-to-income ratio, which offers insights into whether housing costs are disproportionately high relative to people's earnings. It is posited that the burden of elevated housing expenses plays a significant role in influencing key life decisions, including family planning and migration patterns. The work of North Douglas supports this assertion, highlighting how the cost of housing is a critical factor driving these personal and demographic shifts.
+A key metric in evaluating housing affordability is the housing-to-income ratio, which offers insights into whether housing costs are disproportionately high relative to people's earnings. It is posited that the burden of elevated housing expenses plays a significant role in influencing key life decisions, including family planning and migration patterns. 
 
 To address these challenges, this project will delve into the dynamics of the housing market, examining the intricate relationship between housing affordability and its effects on population movements and growth. By leveraging data on the housing-to-income ratio alongside demographic trends, I aim to uncover the nuanced ways in which the housing bubble influences decisions on migration and family expansion.
 
@@ -22,7 +22,7 @@ Embarking on a narrative journey that explores the intricate relationship betwee
 In this part, I present 3 sketches I plan to further implement.  
 
 <img src="bar.png" width="800"/>
-A bar chart illustrating the rankings of housing costs and immigrant numbers for each country, fostering an initial comprehension of how these factors interrelate. This visualization serves as a foundational step towards understanding the broader implications of housing affordability on migration patterns.
+A bar chart illustrating the rankings of housing costs and emmigrant numbers for each country, fostering an initial comprehension of how these factors interrelate. This visualization serves as a foundational step towards understanding the broader implications of housing affordability on migration patterns.
 
 <img src="line.png" width="800"/>
 A line plot for a specific Eastern Asian country, "Country X", showcasing two distinct trends: the evolution of housing costs and the fertility rate over time. This visualization could reveal a startling correlation, indicating that as the housing bubble expands, there's a notable decline in the population's willingness to have children, underscoring the socioeconomic pressures influencing family planning decisions.
