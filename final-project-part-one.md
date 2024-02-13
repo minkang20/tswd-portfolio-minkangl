@@ -29,15 +29,15 @@ Collectively, these visual elements weave a poignant narrative, aiming to height
 In this part, I present 3 sketches I plan to further implement.  
 
 <img src="bar.png" width="800"/>
-1. A bar chart illustrating the rankings of housing costs and emmigrant numbers for each country, fostering an initial comprehension of how these factors interrelate. This visualization serves as a foundational step towards understanding the broader implications of housing affordability on migration patterns.
+(1) A bar chart illustrating the rankings of housing costs and emmigrant numbers for each country, fostering an initial comprehension of how these factors interrelate. This visualization serves as a foundational step towards understanding the broader implications of housing affordability on migration patterns.
 
 <img src="line.png" width="800"/>
 
-2. A line plot for a specific Eastern Asian country, "Country X", showcasing two distinct trends: the evolution of housing costs and the fertility rate over time. This visualization could reveal a startling correlation, indicating that as the housing bubble expands, there's a notable decline in the population's willingness to have children, underscoring the socioeconomic pressures influencing family planning decisions.
+(2) A line plot for a specific Eastern Asian country, "Country X", showcasing two distinct trends: the evolution of housing costs and the fertility rate over time. This visualization could reveal a startling correlation, indicating that as the housing bubble expands, there's a notable decline in the population's willingness to have children, underscoring the socioeconomic pressures influencing family planning decisions.
 
 <img src="geo.png" width="800"/>
 
-3. A geographical heat map detailing the house price-to-income ratio juxtaposed with the volume of migration. This map aims to visually represent the hypothesis that escalating housing costs are not merely a financial concern but a significant factor prompting individuals to relocate, potentially highlighting regions where the affordability crisis is most acute and its impact on population movement.
+(3) A geographical heat map detailing the house price-to-income ratio juxtaposed with the volume of migration. This map aims to visually represent the hypothesis that escalating housing costs are not merely a financial concern but a significant factor prompting individuals to relocate, potentially highlighting regions where the affordability crisis is most acute and its impact on population movement.
 
 
 
