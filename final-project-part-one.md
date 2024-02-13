@@ -13,7 +13,7 @@ The analysis will not only shed light on the current state of the housing market
 
 ### Story arc
 
-<img src="story-arc" width="800"/>
+<img src="story-arc.png" width="800"/>
 
 I initiate the narrative with a captivating statistic or question designed to spark curiosity, laying the groundwork for a comprehensive exploration. This uses a bar chart that unveils the startling reality of widespread housing pressures faced by many.
 
