@@ -1,12 +1,7 @@
-| [home page]((README.md)) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README.md) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 This project aims to provide a comprehensive visualization of the housing bubble and its consequential impact on demographic trends. Housing costs, an essential aspect of living, have escalated to levels that appear unsustainable when contrasted with average income levels across numerous markets. This disparity raises concerns about its broader implications on both the economy and society at large.
 
@@ -16,7 +11,7 @@ To address these challenges, this project will delve into the dynamics of the ho
 
 The analysis will not only shed light on the current state of the housing market but also offer valuable insights for policymakers, urban planners, and individuals alike, seeking to understand and navigate the complexities of housing affordability. Through this exploration, I aspire to contribute to a more informed dialogue on sustainable housing policies and practices that can support balanced economic and social development.
 
->- story arc
+### Story arc
 
 Embarking on a narrative journey that explores the intricate relationship between housing costs, migration, and fertility rates, I begin with an intriguing statistic or question that piques curiosity, setting the stage for a deeper exploration. Through the lens of compelling personal stories, we build empathy, connecting the audience to the individuals directly impacted by these issues. This emotional groundwork leads to a moment of enlightenment, as we present concise visualizations and analyses that illuminate the complexities at play. Reflecting on the broader implications, we provoke thoughtful concern about the future, guiding the audience towards a resolution that inspires hope. By showcasing actionable solutions and success stories, we aim to motivate positive change, concluding with an optimistic message about the collective power of informed action to address global challenges, weaving a cohesive narrative that engages, educates, and empowers.
 
