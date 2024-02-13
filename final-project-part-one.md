@@ -13,7 +13,15 @@ The analysis will not only shed light on the current state of the housing market
 
 ### Story arc
 
-Embarking on a narrative journey that explores the intricate relationship between housing costs, migration, and fertility rates, I begin with an intriguing statistic or question that piques curiosity, setting the stage for a deeper exploration. Through the lens of compelling personal stories, we build empathy, connecting the audience to the individuals directly impacted by these issues. This emotional groundwork leads to a moment of enlightenment, as we present concise visualizations and analyses that illuminate the complexities at play. Reflecting on the broader implications, we provoke thoughtful concern about the future, guiding the audience towards a resolution that inspires hope. By showcasing actionable solutions and success stories, we aim to motivate positive change, concluding with an optimistic message about the collective power of informed action to address global challenges, weaving a cohesive narrative that engages, educates, and empowers.
+<img src="story-arc" width="800"/>
+
+I initiate the narrative with a captivating statistic or question designed to spark curiosity, laying the groundwork for a comprehensive exploration. This uses a bar chart that unveils the startling reality of widespread housing pressures faced by many.
+
+Following this, I introduce a line plot that juxtaposes the rising housing bubble against the declining fertility rate in Eastern Asian countries, a juxtaposition that serves to deepen the emotional engagement of the audience by highlighting a concerning trend.
+
+Next, a geographic heat map illustrates the relationship between housing costs and migration patterns, emphasizing the movement of people in a way that is likely to leave a lasting impression on viewers.
+
+Collectively, these visual elements weave a poignant narrative, aiming to heighten public awareness and catalyze policy reforms addressing the critical issue of housing affordability. Through this carefully constructed storyline, my goal is to not only inform but also inspire action towards alleviating the housing crisis.
 
 
 ## Initial sketches
