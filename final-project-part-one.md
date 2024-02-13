@@ -38,7 +38,6 @@ A geographical heat map detailing the house price-to-income ratio juxtaposed wit
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 For the initial phase of our analysis on the relationship between housing costs and immigration, we leverage data from reputable institutions, including governmental bodies and globally recognized organizations. This approach ensures accuracy and reliability. Below is a polished description of the data sources utilized, along with brief descriptions:
 
@@ -61,12 +60,6 @@ Utilizing these data sources, we aim to establish a foundational understanding o
 All descriptions are from Wikipedia. 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Bar Charts: I will present the countries' ratios of housing costs to income, along with their immigration and fertility rates, in a clear and orderly manner. This approach will highlight the relationship between housing affordability and demographic trends.
-
-Line Plots: By employing two distinct lines—one representing housing costs and the other fertility rates—we offer an intuitive means for the audience to grasp the initial relationship between these variables. This visualization facilitates an easy comparison over time.
-
-Geographical Heat Maps: To illustrate the spatial distribution of housing costs, migration patterns, and fertility rates, I will employ heat maps. These maps will showcase regional variations, enabling a detailed comparative analysis of how different areas are impacted by, or contribute to, these factors. Utilizing country codes will streamline this process, making it straightforward to implement in Tableau or Python.
+To develop an interactive data dashboard, I intend to use Tableau for crafting the visualizations. The primary plots I aim to feature include bar charts, line plots, and geographic heat maps, all of which are seamlessly achievable within Tableau. Integrating these visually appealing and informative visualizations into my GitHub page will not only enhance the presentation but also facilitate a more engaging and interactive user experience. Tableau's capabilities in handling complex datasets and transforming them into clear, interactive visual narratives make it an ideal tool for this project.
 
 
