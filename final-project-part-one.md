@@ -25,7 +25,6 @@ Collectively, these visual elements weave a poignant narrative, aiming to height
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 In this part, I present 3 sketches I plan to further implement.  
 
