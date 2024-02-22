@@ -22,24 +22,35 @@ To capture a comprehensive perspective, I have carefully selected individuals fr
 3. **Gauge Interest in Change:** Identify the level of interest and readiness among respondents to support or initiate changes in housing market policies or investment strategies.
 4. **Inform and Persuade:** Discover effective communication strategies that resonate with this audience, focusing on the precision of information and compelling narratives to drive action.
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+### **Interview script**
 
-Text here!
+1. **Introduction:**
+    - "Thank you for participating in this interview. Today, we're discussing the housing market's current state, its broader societal impacts, and potential policy responses. Your insights will be invaluable in shaping our approach to addressing these issues."
+2. **Assessing Background Knowledge:**
+    - "How would you describe your current understanding of the housing market trends and prices in China?"
+    - "Are you familiar with the fertility patterns related to housing affordability in urban versus rural areas?"
+3. **Exploring Opinions on Socio-Economic Impacts:**
+    - "In your opinion, how do high housing costs impact urban development and societal well-being?"
+    - "Do you think there is a link between housing cost and people’s intention to have babies? Can you elaborate on your perspective?"
+4. **Gauging Interest in Change:**
+    - "Considering the current housing market situation, how interested are you in supporting or advocating for policy changes aimed at improving housing affordability?"
+    - "What kind of changes or initiatives do you believe could effectively address the housing market's challenges?"
+5. **Inform and Persuade:**
+    - "What type of information or data would you find most compelling when considering housing policy reforms or investment decisions?"
+    - "How can we better communicate the complexities of the housing market and its impacts to engage a broader audience effectively?"
+6. **Conclusion:**
+    - "Do you have any additional thoughts or suggestions on how we can address the housing affordability issue or improve our research approach?"
+    - "Thank you for your time and insights. Your input is crucial for developing informed and impactful strategies."
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Assessing Background Knowledge|How would you describe your current understanding of the housing market trends and prices in China?|
+|Exploring Opinions on Socio-Economic Impacts|In your opinion, how do high housing costs impact urban development and societal well-being?|
+|Gauging Interest in Change|Considering the current housing market situation, how interested are you in supporting or advocating for policy changes aimed at improving housing affordability?|
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -65,8 +76,38 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+## Persona **Government Official - Mr. Li**
 
-Text here!
+**Background:**
+
+- Age: 54
+- Occupation: Senior Official, Urban Development Department
+- Location: Suzhou, China
+- Education: Bachelor's in Economics
+
+**Goals:**
+
+- Implement policies for balanced urban growth and housing affordability.
+- Increase affordable housing access for middle and low-income families.
+
+**Values:**
+
+- Public service, data-driven policies, social equity.
+
+**Needs:**
+
+- Access to detailed analyses, market trends, and urban development case studies.
+- A website offering clear, organized content with easy navigation.
+
+**Site Use:**
+
+- To source information for briefings and decision-making.
+- Stay informed on housing trends and innovations.
+
+**Expected Features:**
+
+- Intuitive navigation, advanced search, interactive data visualizations.
+- Forums for professional discourse and collaboration.
+
+Mr. Li is a representative user from the government sector, seeking information for urban and housing challenges. His engagement with the site is focused on obtaining insights on policy development.
 
