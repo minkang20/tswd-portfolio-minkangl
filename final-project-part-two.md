@@ -3,7 +3,7 @@
 # Data visualization project: People Pay More Than Just House Prices
 
 # Wireframes / storyboards
-Shorthand storyboard link: https://carnegiemellon.shorthandstories.com/the-price-of-houses-is-more-than-expected/index.html
+[Shorthand storyboard link](https://carnegiemellon.shorthandstories.com/the-price-of-houses-is-more-than-expected/index.html)
 
 This work explores the significant impact of skyrocketing house prices in China, delving into the socioeconomic and personal ramifications. It outlines how rapid urbanization, speculative investment, and lagging policies have led to a housing affordability crisis, particularly in mega-cities like Beijing and Shanghai. This crisis not only places financial strain on individuals but also contributes to wider economic and societal issues, including a housing bubble risk with major developers like Evergrande facing debt default, and a declining fertility rate as the cost of living inhibits family growth. The narrative emphasizes the urgent need for comprehensive reforms to address housing affordability, suggesting that the path forward should aim to make homeownership accessible to all, thereby fostering stronger, more inclusive communities. Through detailed analysis and calls to action, the piece argues for a reimagined approach to housing that prioritizes affordability, equity, and stability.
 
