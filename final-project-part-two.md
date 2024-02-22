@@ -1,5 +1,7 @@
 | [home page](README.md) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Data visualization project: People Pay More Than Just House Prices
+
 # Wireframes / storyboards
 Shorthand storyboard link: https://carnegiemellon.shorthandstories.com/the-price-of-houses-is-more-than-expected/index.html
 
