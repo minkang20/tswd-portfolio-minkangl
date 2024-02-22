@@ -3,7 +3,7 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+Shorthand storyboard link: https://carnegiemellon.shorthandstories.com/the-price-of-houses-is-more-than-expected/index.html
 
 # User research 
 
@@ -52,29 +52,25 @@ To capture a comprehensive perspective, I have carefully selected individuals fr
 ## Interview findings
 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Male Engineer in Mid 20s ) | Interview 2 (Male Government Official in 50s) | Interview 3 (Female Finance Major Student in Early 20s) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|How would you describe your current understanding of the housing market trends and prices in China?|Yeah, definitely. I've been trying to save up for a place of my own, but the prices in the cities are just insane. It's like, no matter how much I earn, it's never enough to get a decent place without stretching myself thin financially. |Absolutely, the housing costs in China are through the roof, especially in major cities where the market is most competitive. Running a business, I've seen the impact firsthand on my employees and the local economy. |From my studies and observations, yes, China's housing market is incredibly high compared to many developing countries.|
+|How do high housing costs impact your life decision or societal well-being| I would even consider immigration since I can hardly afford housing and babies in Beijing.|I believe many young couples don’t want babies because of this.| It's a daunting reality that adds anxiety to my future career and financial planning, let alone having babies.|
+|Considering the current housing market situation, how interested are you in supporting or advocating for policy changes aimed at improving housing affordability?|The government and private sector need to collaborate on creating more affordable housing and offering financial literacy programs to help people manage their aspirations realistically.|Policies encouraging affordable housing, alongside support for young families, could alleviate some of the pressures and perhaps encourage a shift in these trends.|There should be more innovative housing solutions, like co-living spaces or subsidized housing for young professionals.|
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+## Findings, insights and plans in how to modify the project
+Based on the responses from the three individuals regarding the housing costs in China, the key findings suggest a universal recognition of the high housing market prices and their broader implications. These insights lead to the adjustments for future discussions. 
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+All interviewees, regardless of age or profession, acknowledge the high housing prices in China, indicating that this issue is widely recognized across different demographics. The high cost of housing is not just a financial burden but also a source of economic strain that affects personal and professional decisions, particularly for younger generations.
 
-> ...include any final thoughts you have here. 
-
-Text here!
+### **Modifications for Future Content:**
+1. **Shift Focus to Economic and Societal Impacts:** While acknowledging the high prices, it's essential to delve deeper into the economic fallout and societal effects. This includes exploring how the housing market affects consumer spending, savings rates, and investment behaviors.
+2. **Highlight Impact on Family Planning:** Given the mention of housing costs affecting intentions to have babies, future discussions should emphasize the correlation between housing affordability and demographic trends alone side the current the fertility rate plot. This could involve analyzing policies that might mitigate these effects and exploring case studies from other countries with similar challenges.
+3. **Examine Long-term Economic Sustainability:** Explore the long-term sustainability of the current housing market trends, including potential risks to economic stability, such as the creation of a housing bubble and its implications for the financial system.
+4. **Policy and Solution-Focused Discussions:** Shift towards discussing potential policy solutions and innovative approaches to address the housing affordability crisis. This could include examining successful international models, proposing reforms in housing policy, urban planning, and financial regulation to improve accessibility and affordability.
 
 ## Persona **Government Official - Mr. Li**
 
