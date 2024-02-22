@@ -8,9 +8,19 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+### Target Audience and Approach
+
+The target audience encompasses a diverse group, primarily focusing on policymakers, investors, and individuals deeply invested in public welfare. This project casts a wide net, recognizing that many within our society are potential stakeholders in the discourse surrounding housing market policy. Whether it's through casting a vote, participating in public initiatives, or contributing to the broader conversation, their involvement is crucial.
+
+To capture a comprehensive perspective, I have carefully selected individuals from varied backgrounds, encompassing differences in occupation, age, gender, and more. This approach ensures that our insights reflect the multifaceted impact of housing policies and market dynamics.
+
+### **Goals for the Interview:**
+
+1. **Assess Current Knowledge:** Determine the respondent's level of understanding regarding housing market trends, prices, and fertility patterns.
+2. **Explore Opinions on Socio-Economic Impacts:** Understand the respondent's views on the relationship between housing costs and social issues, including economic crisis and fertility rates.
+3. **Gauge Interest in Change:** Identify the level of interest and readiness among respondents to support or initiate changes in housing market policies or investment strategies.
+4. **Inform and Persuade:** Discover effective communication strategies that resonate with this audience, focusing on the precision of information and compelling narratives to drive action.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
