@@ -9,8 +9,6 @@ This work explores the significant impact of skyrocketing house prices in China,
 
 # User research 
 
-## Target audience
-
 ### Target Audience and Approach
 
 The target audience encompasses a diverse group, primarily focusing on policymakers, investors, and individuals deeply invested in public welfare. This project casts a wide net, recognizing that many within our society are potential stakeholders in the discourse surrounding housing market policy. Whether it's through casting a vote, participating in public initiatives, or contributing to the broader conversation, their involvement is crucial.
