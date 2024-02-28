@@ -45,6 +45,5 @@ World Bank, https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?end=2021&locatio
 Zhi, T., Li, Z., Jiang, Z., Wei, L., & Sornette, D. (2019). Is there a housing bubble in China?. Emerging Markets Review, 39, 120-132.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+This journal presents a fascinating opportunity for me to deeply reconsider facts, persuasively advocate for change, and refine my perspectives. During presentations, however, I find it challenging to comprehensively detail the call to action. Additionally, it's difficult to convey significant shifts in data visualizations, such as the notable increase in house prices around 2016. While highlighting key factors specific to that year might seem beneficial, this approach may not fully capture the complexity of events within a broad political and economic framework. To illustrate the economic repercussions of the housing bubble, I employ bubble charts showcasing major real estate companies and their sales figures. Bubble charts are particularly effective here, as they offer a more relatable and intuitive understanding of the data.
