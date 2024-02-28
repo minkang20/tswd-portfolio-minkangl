@@ -21,9 +21,27 @@ Persona (a target audience case):
 Mr. Li exemplifies a key segment of our audience from the governmental sector, seeking to navigate urban and housing challenges. His interaction with the project is driven by a quest for deep insights into policy formulation and development.
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+‘An Even Bigger Housing Crisis Threatens China’s Economy’, Wall Street Journal, https://www.wsj.com/world/china/china-economy-housing-country-garden-ea0db13f
 
-Text here!
+‘China’s Real Estate Crisis ‘Has Not Touched Bottom’’, The New York Times, https://www.nytimes.com/2024/01/30/business/china-evergrande-real-estate.html
+
+China Real Estate Information Corporation, http://www.cric.com/Account/login?returnurl=%2F 
+
+‘How bad could China’s property crisis get?’, The Economist, https://www.economist.com/finance-and-economics/2023/08/16/how-bad-could-chinas-property-crisis-get
+
+Lin, G. C., Li, X., Yang, F. F., & Hu, F. Z. (2015). Strategizing urbanism in the era of neoliberalization: State power reshuffling, land development and municipal finance in urbanizing China. Urban Studies, 52(11), 1962-1982.
+
+Meng, L., Peng, L., & Zhou, Y. (2023). Do housing booms reduce fertility intentions? Evidence from the new two-child policy in China. Regional Science and Urban Economics, 103920.
+
+National Bureau of Statistics of China, https://www.stats.gov.cn/english/ 
+
+Numbeo, https://www.numbeo.com/cost-of-living/ 
+
+Joo, T. T. K., & Wong, T. C. (2008). Public housing in Singapore: A sustainable housing form and development. In Spatial planning for a sustainable Singapore (pp. 135-150). Dordrecht: Springer Netherlands.
+
+World Bank, https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?end=2021&locations=CN&start=1984
+
+Zhi, T., Li, Z., Jiang, Z., Wei, L., & Sornette, D. (2019). Is there a housing bubble in China?. Emerging Markets Review, 39, 120-132.
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
