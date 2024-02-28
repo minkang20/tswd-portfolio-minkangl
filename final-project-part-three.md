@@ -6,19 +6,19 @@
 [Shorthand storyboard link](https://carnegiemellon.shorthandstories.com/the-price-of-houses-is-more-than-expected/index.html)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Following feedback from interviews and further reflection, I implemented several adjustments to enhance the project:
 
-Text here!
+- I updated the visual elements, transitioning to a predominantly black color scheme and replacing images to ensure a consistent style that reflects the gravity of the subject. I now exclusively use images from Unsplash that are free from copyright restrictions.
+- The content distribution has been recalibrated to de-emphasize the historical surge in housing prices, focusing more on the current high costs in comparison to other countries and the associated consequences.
+- Initial feedback highlighted the compelling nature of the data presentation and narrative flow. To address desires for a more balanced discussion on high housing costs and policy responses, I've enriched the content with actionable insights sourced from reputable academic and journalistic outlets (such as The New York Times and The Wall Street Journal). This addition aims to captivate our primary audience, who are well-versed in the political and economic underpinnings of housing policies.
+- The design of the data visualizations has been refined to include a reference line marking the introduction of new government policies, enabling an analysis of their impact on fertility rates.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+The project aims to engage policymakers, investors, and a broader audience interested in housing policy and the Chinese economy. Through the feedback process, I recognized the value in expanding our intended audience, acknowledging that a wide range of individuals can contribute to the discourse.
 
-Text here!
+Persona (a target audience case): 
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+Mr. Li exemplifies a key segment of our audience from the governmental sector, seeking to navigate urban and housing challenges. His interaction with the project is driven by a quest for deep insights into policy formulation and development.
 
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
