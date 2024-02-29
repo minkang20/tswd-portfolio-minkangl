@@ -32,10 +32,10 @@ Below is a collection of my data visualization works.
 ### Government debt breakdown: [visualizing debt](visualizing-government-debt)
 I visualize the government debt breakdown in this work. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+### Assignment 3&4: [Critique by Design](critique-by-design)
 I made some critique and redesign in this work.
 
-## Final project
+### Final project
 My work examines the profound effects of escalating housing prices in China, focusing on the socioeconomic and personal consequences that have emerged. It highlights how rapid urbanization, speculative investment, and inadequate policy responses have precipitated a housing affordability crisis, with pronounced effects in mega-cities such as Beijing, Shanghai, Shenzhen, and Guangzhou. This crisis not only imposes financial burdens on individuals but also contributes to broader economic and societal challenges. These include the risk of a housing bubble, exemplified by major developers like Evergrande facing the threat of debt default, and a declining fertility rate, as the rising cost of living dampens the desire for family expansion. The narrative underscores the critical need for comprehensive reforms aimed at improving housing affordability. It advocates for initiatives to ensure homeownership is within reach for everyone, thus nurturing stronger and more inclusive communities. Among the recommended measures are the provision of public housing similar to Singapore's model, restructuring of debt, and reform of municipal financing mechanisms.
 
 [Part I](final-project-part-one)
