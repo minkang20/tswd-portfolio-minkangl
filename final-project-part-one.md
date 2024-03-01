@@ -1,7 +1,8 @@
 | [home page](README.md) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# The Price of House is More Than Expected
 
-# Outline
+## Outline
 
 This project aims to provide a comprehensive visualization of the housing bubble and its consequential impact on demographic trends. Housing costs, an essential aspect of living, have escalated to levels that appear unsustainable when contrasted with average income levels across numerous markets. This disparity raises concerns about its broader implications on both the economy and society at large.
 
@@ -12,7 +13,7 @@ To address these challenges, this project will delve into the dynamics of the ho
 The analysis will not only shed light on the current state of the housing market but also offer valuable insights for policymakers, urban planners, and individuals alike, seeking to understand and navigate the complexities of housing affordability. Through this exploration, I aspire to contribute to a more informed dialogue on sustainable housing policies and practices that can support balanced economic and social development.
 
 
-### Structure and story arc
+## Structure and story arc
 
 <img src="story-arc.png" width="800"/>
 
@@ -48,7 +49,7 @@ In this part, I present 3 sketches I plan to further implement.
 
 
 
-# The data
+## The data
 
 For the initial phase of our analysis on the relationship between housing costs and immigration, I will leverage data from reputable institutions, including governmental bodies and globally recognized organizations. This approach ensures accuracy and reliability. Below is the description of the data sources utilized:
 
@@ -67,7 +68,7 @@ Numbeo: Numbeo is the world’s largest database of user-contributed data about 
 Utilizing these data sources, I aim to establish a foundational understanding of the relationship between housing costs and immigration patterns, ensuring my story is grounded in credible and diverse datasets. This multifaceted approach allows for a robust examination of how housing affordability and availability influence migration decisions on a global scale.
 
 
-# Method and medium
+## Method and medium
 To develop an interactive data dashboard, I intend to use Tableau for crafting the visualizations. The primary plots I aim to feature include bar charts, line plots, and geographic heat maps, all of which are seamlessly achievable within Tableau. Integrating these visually appealing and informative visualizations into my GitHub page will not only enhance the presentation but also facilitate a more engaging and interactive user experience. Tableau's capabilities in handling complex datasets and transforming them into clear, interactive visual narratives make it an ideal tool for this project.
 
 
