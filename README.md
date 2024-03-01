@@ -3,9 +3,9 @@
 # TSWD-portfolio
 This is Minkang's data visualization portfolio adjusted from TSWD templates. 
 
-You can reference the templace: 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+You can reference the templace from: 
+- [Web page URL](https://cmustudent.github.io/tswd-portfolio-templates/)
+- [This repository]( https://github.com/cmustudent/tswd-portfolio-templates/)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. I hope you will find something fun here. Enjoy!
@@ -39,7 +39,12 @@ I made some critique and redesign in this work.
 My work examines the profound effects of escalating housing prices in China, focusing on the socioeconomic and personal consequences that have emerged. It highlights how rapid urbanization, speculative investment, and inadequate policy responses have precipitated a housing affordability crisis, with pronounced effects in mega-cities such as Beijing, Shanghai, Shenzhen, and Guangzhou. This crisis not only imposes financial burdens on individuals but also contributes to broader economic and societal challenges. These include the risk of a housing bubble, exemplified by major developers like Evergrande facing the threat of debt default, and a declining fertility rate, as the rising cost of living dampens the desire for family expansion. The narrative underscores the critical need for comprehensive reforms aimed at improving housing affordability. It advocates for initiatives to ensure homeownership is within reach for everyone, thus nurturing stronger and more inclusive communities. Among the recommended measures are the provision of public housing similar to Singapore's model, restructuring of debt, and reform of municipal financing mechanisms.
 
 [Part I](final-project-part-one)
+Part I is about the story plot, data sources and data visualization sketches.
+
 [Part II](final-project-part-two)
+Part II provides an initial version of the story and user research results. 
+
 [Part III](final-project-part-two)
+Part III presents the final published story and some reflection. 
 
-
+Thank you! Best.
