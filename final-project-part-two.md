@@ -1,13 +1,13 @@
 | [home page](README.md) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Data visualization project: People Pay More Than Just House Prices
+# The Price of House is More Than Expected
 
-# Wireframes / storyboards
+## Wireframes / storyboards
 [Shorthand storyboard link](https://carnegiemellon.shorthandstories.com/the-price-of-houses-is-more-than-expected/index.html)
 
 This work explores the significant impact of skyrocketing house prices in China, delving into the socioeconomic and personal ramifications. It outlines how rapid urbanization, speculative investment, and lagging policies have led to a housing affordability crisis, particularly in mega-cities like Beijing and Shanghai. This crisis not only places financial strain on individuals but also contributes to wider economic and societal issues, including a housing bubble risk with major developers like Evergrande facing debt default, and a declining fertility rate as the cost of living inhibits family growth. The narrative emphasizes the urgent need for comprehensive reforms to address housing affordability, suggesting that the path forward should aim to make homeownership accessible to all, thereby fostering stronger, more inclusive communities. Through detailed analysis and calls to action, the piece argues for a reimagined approach to housing that prioritizes affordability, equity, and stability.
 
-# User research 
+## User research 
 
 ### Target Audience and Approach
 
@@ -39,7 +39,7 @@ To capture a comprehensive perspective, I have carefully selected individuals fr
 | Considering the current housing market situation, how interested are you in supporting or advocating for policy changes aimed at improving housing affordability? | "The government and private sector need to collaborate on creating more affordable housing and offering financial literacy programs to help people manage their aspirations realistically."                                                                                       | "Policies encouraging affordable housing, alongside support for young families, could alleviate some of the pressures and perhaps encourage a shift in these trends."                                                                                                   | "There should be more innovative housing solutions, like co-living spaces or subsidized housing for young professionals."|
 
 
-# Identified changes for Part III
+## Identified changes for Part III
 
 ### Findings, insights and plans in how to modify the project
 Based on the responses from the three individuals regarding the housing costs in China, the key findings suggest a universal recognition of the high housing market prices and their broader implications. These insights lead to the adjustments for future discussions. 
