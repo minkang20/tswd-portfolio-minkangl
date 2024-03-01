@@ -13,7 +13,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 # About me
 Hi! I'm Minkang Li (He/his/him). I'm a second-year PPM stydent and an incoming data Scientist with a knack for dissecting real-world challenges, crafting predictive models, and delivering actionable insights. In my free time, I like hiking, footballing and photography. I'm more than welcomre to make a connection with you! 
 
-<img src="me.JPG" width="200"/>
+<img src="me.JPG" width="400"/>
 
 # What I hope to learn
 I would like learn how to transform data into insightful, engaging stories, making complex information accessible and impactful. As I prepare for a career in data science, I am dedicated to continuously developing my visualization abilities through practical projects and ongoing lectures.
