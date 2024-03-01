@@ -1,5 +1,7 @@
 | [home page](README.md) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# The Price of House is More Than Expected
+
 ## The final data story
 
 My work examines the profound effects of escalating housing prices in China, focusing on the socioeconomic and personal consequences that have emerged. It highlights how rapid urbanization, speculative investment, and inadequate policy responses have precipitated a housing affordability crisis, with pronounced effects in mega-cities such as Beijing, Shanghai, Shenzhen, and Guangzhou. This crisis not only imposes financial burdens on individuals but also contributes to broader economic and societal challenges. These include the risk of a housing bubble, exemplified by major developers like Evergrande facing the threat of debt default, and a declining fertility rate, as the rising cost of living dampens the desire for family expansion. The narrative underscores the critical need for comprehensive reforms aimed at improving housing affordability. It advocates for initiatives to ensure homeownership is within reach for everyone, thus nurturing stronger and more inclusive communities. Among the recommended measures are the provision of public housing similar to Singapore's model, restructuring of debt, and reform of municipal financing mechanisms.
@@ -44,6 +46,10 @@ World Bank, https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?end=2021&locatio
 
 Zhi, T., Li, Z., Jiang, Z., Wei, L., & Sornette, D. (2019). Is there a housing bubble in China?. Emerging Markets Review, 39, 120-132.
 
-# Final thoughts
+## Final thoughts
 
-This journal presents a fascinating opportunity for me to deeply reconsider facts, persuasively advocate for change, and refine my perspectives. During presentations, however, I find it challenging to comprehensively detail the call to action. Additionally, it's difficult to convey significant shifts in data visualizations, such as the notable increase in house prices around 2016. While highlighting key factors might seem beneficial, this approach may not fully capture the complexity of events within a broad political and economic framework. I added a reference line marking the interest rate cut to help explain that partially. To illustrate the economic repercussions of the housing bubble, I employ bubble charts showcasing major real estate companies and their sales figures. Bubble charts are particularly effective here, as they offer a more relatable and intuitive understanding of the data.
+This journal presents a fascinating opportunity for me to deeply reconsider facts, persuasively advocate for change, and refine my perspectives. 
+
+During presentations, however, I find it challenging to comprehensively detail the call to action. Moreover, elucidating significant trends in data visualizations, such as the marked escalation in housing prices circa 2016, proves to be complex. While emphasizing key factors could seem advantageous, this method may not capture the intricacies of events within an expansive political and economic landscape. To mitigate this, I integrated a reference line indicating the interest rate reduction, aiming to provide some explanation.
+
+To depict the economic fallout of the housing bubble, I utilize bubble charts that display major real estate firms and their sales data. These charts excel in conveying a more tangible and intuitive grasp of the information, offering a unique lens through which to view the economic impact.
