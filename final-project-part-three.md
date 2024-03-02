@@ -19,7 +19,38 @@ Following feedback from interviews and further reflection, I implemented several
 ## The audience
 The project aims to engage policymakers, investors, and a broader audience interested in housing policy and the Chinese economy. Through the feedback process, I recognized the value in expanding our intended audience, acknowledging that a wide range of individuals can contribute to the discourse.
 
-Persona (a target audience case): 
+## Persona **Government Official - Mr. Li**
+
+**Background:**
+
+- Age: 54
+- Occupation: Senior Official, Urban Development Department
+- Location: Suzhou, China
+- Education: Bachelor's in Economics
+
+**Goals:**
+
+- Implement policies for balanced urban growth and housing affordability.
+- Increase affordable housing access for middle and low-income families.
+
+**Values:**
+
+- Public service, data-driven policies, social equity.
+
+**Needs:**
+
+- Access to detailed analyses, market trends, and urban development case studies.
+- A website offering clear, organized content with easy navigation.
+
+**Site Use:**
+
+- To source information for briefings and decision-making.
+- Stay informed on housing trends and innovations.
+
+**Expected Features:**
+
+- Intuitive navigation, advanced search, interactive data visualizations.
+- Forums for professional discourse and collaboration.
 
 Mr. Li exemplifies a key segment of our audience from the governmental sector, seeking to navigate urban and housing challenges. His interaction with the project is driven by a quest for deep insights into policy formulation and development.
 
